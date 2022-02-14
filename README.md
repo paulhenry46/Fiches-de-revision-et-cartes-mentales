@@ -9,7 +9,7 @@ Les fichiers
 - .odt avec LibreOffice
 - .ggb avec Geogebra.
 
-Note : Les équations des fiches de Mathématiques sont faites avec l'extension (LibreLatex)[https://extensions.libreoffice.org/en/extensions/show/librelatex]
+Note : Les équations des fiches de Mathématiques sont faites avec l'extension [LibreLatex](https://extensions.libreoffice.org/en/extensions/show/librelatex)
 
 
 ## Contribuer
