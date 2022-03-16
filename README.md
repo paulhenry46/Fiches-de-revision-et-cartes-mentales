@@ -20,4 +20,4 @@ Merci !
 
 ## License
 
-Tout le contenu du site et des fichiers sources est disponible sous liecnse  "Do What The Fuck You Want to Public License".
+Tout le contenu du site et des fichiers sources sont disponibles sous liecnse  "Do What The Fuck You Want to Public License".
