@@ -7,7 +7,7 @@ Vous trouverez ici les fichiers sources des ressources présentes sur le site.
 
 Les cartes mentales sont faites avec [Xmind](www.xmind.net). Malheureusement, elles ne sont modifiables qu'avec ce logiciel propriétaire. Des exports en XML pour la modification avec Freeplane sont prévus.
 
-Les fiches de révisions et de méthodologies sont écrites avec LibreOffice.
+Les fiches de révisions et de méthodologies sont écrites avec [LibreOffice](fr.libreoffice.org).
 
 Les différents schémas présents dans les ressources sont réalisés de 2 façons.
 - avec [Inkscape](inkscape.org) 1.2 pour presque tous les schémas (.svg)
