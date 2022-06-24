@@ -5,13 +5,13 @@ Vous trouverez ici les fichiers sources des ressources présentes sur le site.
 
 ## Utilisation
 
-Les cartes mentales sont faites avec [Xmind](www.xmind.net). Malheureusement, elles ne sont modifiables qu'avec ce logiciel propriétaire. Des exports en XML pour la modification avec Freeplane sont prévus.
+Les cartes mentales sont faites avec [Xmind](https://www.xmind.net). Malheureusement, elles ne sont modifiables qu'avec ce logiciel propriétaire. Des exports en XML pour la modification avec Freeplane sont prévus.
 
-Les fiches de révisions et de méthodologies sont écrites avec [LibreOffice](fr.libreoffice.org).
+Les fiches de révisions et de méthodologies sont écrites avec [LibreOffice](https://fr.libreoffice.org).
 
 Les différents schémas présents dans les ressources sont réalisés de 2 façons.
-- avec [Inkscape](inkscape.org) 1.2 pour presque tous les schémas (.svg)
-- avec [GeoGebra](www.geogebra.org) principalement pour les fonctions et figures géométriques des fiches de révision de mathématiques (.ggb)
+- avec [Inkscape](https://inkscape.org) 1.2 pour presque tous les schémas (.svg)
+- avec [GeoGebra](https://www.geogebra.org) principalement pour les fonctions et figures géométriques des fiches de révision de mathématiques (.ggb)
 
 Les équations des fiches de mathématiques sont réalisées avec l'extension [LibreLatex](https://extensions.libreoffice.org/en/extensions/show/librelatex)
 
