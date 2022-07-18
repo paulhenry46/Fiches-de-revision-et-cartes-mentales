@@ -1,7 +1,7 @@
 # Fiches et cartes mentales
-## Bienvenue !
+## Pourquoi ce dépot ?
 
-Vous trouverez ici les fichiers sources des ressources présentes sur le site.
+Durant mes révisions, j'ai découvert de nombreux sites proposant des ressources pour réviser. Malheureusement, à chaque fois, on ne pouvait pas télécharger les fiches ou les modifier librement. De plus, très rare sont les sites proposant des cartes mentales pour réviser efficacement. C'est pour combler ces manques que ce dépôt et le site associé ont été créés. 
 
 ## Utilisation
 
@@ -35,4 +35,4 @@ Si vous remarquez des erreurs, avez des suggestions d'amélioration des ressourc
 
 ## License
 
-Les fichiers sources sont disponibles sous license CC-BY-SA 4.0 ! Vous pouvez donc utiliser, partager et modifier les fichiers à condition de les republiers sous la même license et de créditer l'auteur.
+Les fichiers sont disponibles sous license CC-BY-SA 4.0 ! Vous pouvez donc utiliser, partager et modifier les fichiers à condition de les republiers sous la même license et de créditer l'auteur.
