@@ -1,19 +1,33 @@
-# Sources de Fiches et cartes mentales
+# Fiches et cartes mentales
 ## Bienvenue !
 
 Vous trouverez ici les fichiers sources des ressources présentes sur le site.
 
 ## Utilisation
 
-Les cartes mentales sont faites avec [Xmind](https://www.xmind.net). Malheureusement, elles ne sont modifiables qu'avec ce logiciel propriétaire. Des exports en XML pour la modification avec Freeplane sont prévus.
+Les cartes mentales ne peuvent pour le moment être ouvertes qu'avec [Xmind](https://www.xmind.net).
 
 Les fiches de révisions et de méthodologies sont écrites avec [LibreOffice](https://fr.libreoffice.org).
 
-Les différents schémas présents dans les ressources sont réalisés de 2 façons.
-- avec [Inkscape](https://inkscape.org) 1.2 pour presque tous les schémas (.svg)
-- avec [GeoGebra](https://www.geogebra.org) principalement pour les fonctions et figures géométriques des fiches de révision de mathématiques (.ggb)
+Toutes les équations sont écrites en LaTex. Celles des fiches de mathématiques sont générées avec l'extension [LibreLatex](https://extensions.libreoffice.org/en/extensions/show/librelatex)
 
-Les équations des fiches de mathématiques sont réalisées avec l'extension [LibreLatex](https://extensions.libreoffice.org/en/extensions/show/librelatex)
+## Technologies et programmes utilisés
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) pour les fiches de révision et de méthodologie
+
+![Geogebra](geogebra.svg) pour les schéma de géométrie
+
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) pour tous les autres schémas
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) pour les équations des fiches de mathématique
+
+![Xmind](xmind.svg) pour toutes les cartes mentales
+
+## Librairies utilisées pour la création des schémas
+- [Publicdomainvector](https://publicdomainvectors.org)
+- [Wikimedia Commons](https://commons.wikimedia.org)
+- [Réactome](https://reactome.org)
+- [Servier](https://smart.servier.com)
+- [Bioicons](https://bioicons.com)
 
 ## Contribuer
 
