@@ -33,7 +33,7 @@ Toutes les équations sont écrites en LaTex. Celles des fiches de mathématique
 
 Si vous remarquez des erreurs, avez des suggestions d'amélioration des ressources ou des idées, n'hésitez pas à ouvrir une issue ou une PL si vous avez modifié certains fichiers et que vous souhaitez qu'ils soient dans le dépôt !
 ## À faire
-- [] Faire l'export OPML des cartes mentales
+- [ ] Faire l'export OPML des cartes mentales
 
 ## License
 
