@@ -35,6 +35,11 @@ Si vous remarquez des erreurs, avez des suggestions d'amélioration des ressourc
 ## À faire
 - [ ] Faire l'export OPML des cartes mentales
 
+## Ouverture des cartes mentales avec Freeplane
+
+Xmind propose des exports en OPML. Ceux-ci peuvent être importés dans Freeplane avec l'extension [Import OPML to selected node](https://github.com/adxsoft/ImportOPMLtoselectednode.addon).
+Malheureusement, dans ce format, des éléments des cartes mentales manquent. En effet, les **relations, limites, résumés, images et équations LaTex** ne sont pas supportés. Seule l'arborescence des cartes mentales sont exportées.
+
 ## License
 
 Les fichiers sont disponibles sous license CC-BY-SA 4.0 ! Vous pouvez donc utiliser, partager et modifier les fichiers à condition de les republiers sous la même license et de créditer l'auteur.
