@@ -9,7 +9,7 @@ Les cartes mentales ne peuvent pour le moment être ouvertes qu'avec [Xmind](htt
 
 Les fiches de révisions et de méthodologies sont écrites avec [LibreOffice](https://fr.libreoffice.org).
 
-Toutes les équations sont écrites en LaTex. Celles des fiches de mathématiques sont générées avec l'extension [LibreLatex](https://extensions.libreoffice.org/en/extensions/show/librelatex)
+Toutes les équations sont écrites en LaTex. Celles des fiches de mathématiques sont générées avec l'extension [TexMaths](https://extensions.libreoffice.org/en/extensions/show/texmaths-1)
 
 ## Technologies et programmes utilisés
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) pour les fiches de révision et de méthodologie
