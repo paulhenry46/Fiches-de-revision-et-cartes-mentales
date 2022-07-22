@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="147.0497mm"
+   height="92.073608mm"
+   viewBox="0 0 147.0497 92.073608"
+   version="1.1"
+   id="svg192290"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="chap2-fig7.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview192292"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.042298"
+     inkscape:cx="252.80678"
+     inkscape:cy="194.28225"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid195560"
+       originx="-21.584357"
+       originy="-91.30802" />
+  </sodipodi:namedview>
+  <defs
+     id="defs192287">
+    <marker
+       style="overflow:visible"
+       id="marker186757"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path186755" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.584357,-91.308023)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker186757)"
+       d="M 34.395834,92.604165 V 171.97917"
+       id="path180712"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.365;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 29.104167,166.6875 H 166.68751"
+       id="path180714"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#cc0000;stroke-width:0.627398;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 34.373625,100.54167 c 23.314734,30.35232 51.179537,58.8873 132.313875,66.14583"
+       id="path180716"
+       sodipodi:nodetypes="cc" />
+    <path
+       fill="none"
+       stroke="#006400"
+       paint-order="fill stroke markers"
+       d="m 34.48941,122.10327 c 2.310929,14.70306 1.996998,17.93222 3.893707,26.88807 2.69049,9.34959 5.00167,25.30563 8.558956,13.16279 5.044946,-14.7046 8.591823,-25.31609 12.592994,-32.07123 3.460401,-4.26863 6.657615,15.8675 10.159699,27.19269 2.449584,7.02619 4.041955,11.62213 7.389372,7.66423 2.480052,-0.72093 13.864906,-24.57863 20.317943,-9.9296 1.780727,4.95854 4.429789,17.29921 18.529249,8.0727 11.54866,-4.49885 16.13421,1.01425 21.26438,3.18364"
+       stroke-opacity="0.698039"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.649973"
+       id="path185151-0"
+       sodipodi:nodetypes="ccccccccc"
+       style="stroke-linecap:round" />
+    <path
+       fill="none"
+       stroke="#006400"
+       paint-order="fill stroke markers"
+       d="m 34.308676,145.39189 c 2.310929,-14.70306 4.579795,-20.44648 7.658591,-29.45322 2.864387,-8.44702 5.92114,2.84728 7.969072,15.33153 3.006802,16.17336 5.962705,24.70496 8.433857,31.7264 3.103506,7.3806 6.273621,0.076 9.445653,-5.94295 3.927474,-8.78264 5.108685,-14.25131 8.718561,-15.44487 3.604842,0.17201 4.19572,5.94339 7.250791,16.12925 2.607476,5.97503 5.845671,10.27356 9.384732,7.97298 3.746046,-2.24096 3.717219,-2.28675 5.731533,-3.89347 1.741034,-1.44215 8.959794,-9.08386 13.936424,-2.88548 4.07408,3.28428 9.24562,7.40677 12.67393,7.579 5.20788,-0.24526 9.21259,-2.92965 15.80365,-2.5987 3.90362,0.51563 9.94298,2.80591 15.64639,1.38472"
+       stroke-opacity="0.698039"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.649973"
+       id="path185151-0-2"
+       sodipodi:nodetypes="ccccccccccccc"
+       style="stroke:#e98a00;stroke-width:0.65;stroke-dasharray:none;stroke-opacity:0.698039" />
+    <path
+       style="fill:none;stroke:#cc0000;stroke-width:0.65;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 44.979167,174.625 H 55.5625"
+       id="path188327" />
+    <path
+       style="fill:none;stroke:#006400;stroke-width:0.65;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.698039"
+       d="M 44.979167,179.91667 H 55.5625"
+       id="path188329" />
+    <path
+       style="fill:none;stroke:#e98a00;stroke-width:0.65;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.698039"
+       d="m 111.12501,174.62501 h 10.58333"
+       id="path188331" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.001789"
+       y="176.59515"
+       id="text188335"><tspan
+         sodipodi:role="line"
+         id="tspan188333"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="58.001789"
+         y="176.59515">Énergie mécanique</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="57.834518"
+       y="182.26801"
+       id="text188335-6"><tspan
+         sodipodi:role="line"
+         id="tspan188333-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="57.834518"
+         y="182.26801">Énergie potentielle</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="123.71725"
+       y="176.48116"
+       id="text188335-9"><tspan
+         sodipodi:role="line"
+         id="tspan188333-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="123.71725"
+         y="176.48116">Énergie cinétique</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="167.20262"
+       y="171.71721"
+       id="text189145"><tspan
+         sodipodi:role="line"
+         id="tspan189143"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="167.20262"
+         y="171.71721">t</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.165777"
+       y="98.328537"
+       id="text189145-9"><tspan
+         sodipodi:role="line"
+         id="tspan189143-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="21.165777"
+         y="98.328537">E(m)</tspan></text>
+  </g>
+  <metadata
+     id="metadata200540">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:date>été 2022 - V1 du TST</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paulhenry Saux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Paulhenry.eu</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>FR</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
