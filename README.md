@@ -14,7 +14,7 @@ Toutes les équations sont écrites en LaTex. Celles des fiches de mathématique
 ## Technologies et programmes utilisés
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) pour les fiches de révision et de méthodologie
 
-![Geogebra](geogebra.svg) pour les schéma de géométrie
+![Geogebra](geogebra.svg) pour les schémas de géométrie
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) pour tous les autres schémas
 
@@ -38,7 +38,7 @@ Si vous remarquez des erreurs, avez des suggestions d'amélioration des ressourc
 ## Ouverture des cartes mentales avec Freeplane
 
 Xmind propose des exports en OPML. Ceux-ci peuvent être importés dans Freeplane avec l'extension [Import OPML to selected node](https://github.com/adxsoft/ImportOPMLtoselectednode.addon).
-Malheureusement, dans ce format, des éléments des cartes mentales manquent. En effet, les **relations, limites, résumés, images et équations LaTex** ne sont pas supportés. Seule l'arborescence des cartes mentales sont exportées.
+Malheureusement, dans ce format, des éléments des cartes mentales manquent. En effet, les **relations, limites, résumés, images et équations LaTex** ne sont pas supportés. Seule l'arborescence des cartes mentales est exportée.
 
 ## License
 
