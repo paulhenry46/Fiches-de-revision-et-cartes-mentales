@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="153.95291mm"
+   height="44.229141mm"
+   viewBox="0 0 153.95291 44.229141"
+   version="1.1"
+   id="svg6187"
+   inkscape:version="1.2 (1:1.2+202206011327+fc4e4096c5)"
+   sodipodi:docname="chap6-fig3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview6189"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.73701597"
+     inkscape:cx="392.80017"
+     inkscape:cy="10.17617"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6677"
+       originx="-21.166666"
+       originy="-114.95336" />
+  </sodipodi:namedview>
+  <defs
+     id="defs6184">
+    <marker
+       style="overflow:visible"
+       id="marker13010"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path13008" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.166666,-114.95336)">
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 21.166666,116.41667 H 174.625"
+       id="path6679" />
+    <path
+       style="fill:none;stroke:#ff6600;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 21.166666,158.75 H 174.625"
+       id="path6681" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 43.656249,137.58333 145.52083,116.41667"
+       id="path10734"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 43.656249,137.58333 68.791667,158.75 145.52083,116.41667"
+       id="path11462"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;stroke:#aa0000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.8;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2706"
+       inkscape:flatsided="false"
+       sodipodi:sides="9"
+       sodipodi:cx="88.740334"
+       sodipodi:cy="209.27051"
+       sodipodi:r1="11.22532"
+       sodipodi:r2="6.2300525"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.134464"
+       inkscape:rounded="0.11"
+       inkscape:randomized="0"
+       d="m 96.677833,217.20801 c -0.44944,0.44944 -4.728513,-2.55978 -5.304565,-2.29116 -0.576053,0.26862 -1.021398,5.48087 -1.654583,5.53626 -0.633186,0.0554 -1.976861,-5.00033 -2.590808,-5.16483 -0.613946,-0.16451 -4.305466,3.54204 -4.826122,3.17747 -0.520657,-0.36457 1.699786,-5.10117 1.335218,-5.62183 -0.364567,-0.52066 -5.574959,-0.0541 -5.739466,-0.66809 -0.164506,-0.61394 4.581085,-2.81512 4.636481,-3.44831 0.0554,-0.63318 -4.235867,-3.62498 -3.967249,-4.20104 0.268618,-0.57605 5.318842,0.78816 5.768282,0.33872 0.44944,-0.44944 -0.914766,-5.49967 -0.338713,-5.76829 0.576053,-0.26861 3.567855,4.02265 4.201041,3.96725 0.633185,-0.0554 2.834365,-4.80098 3.448311,-4.63648 0.613946,0.16451 0.147428,5.3749 0.668085,5.73947 0.520656,0.36457 5.257265,-1.85588 5.621832,-1.33522 0.364568,0.52066 -3.341981,4.21218 -3.177475,4.82612 0.164507,0.61395 5.220232,1.95762 5.164836,2.59081 -0.0554,0.63318 -5.267641,1.07853 -5.536259,1.65458 -0.268618,0.57605 2.740594,4.85513 2.291154,5.30457 z"
+       inkscape:transform-center-x="-0.19633287"
+       inkscape:transform-center-y="-0.19529302"
+       transform="matrix(0.44076278,0.06938149,-0.06938149,0.44076278,19.062313,39.187747)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.214217px;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:0.214217, 0.642651;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 49.340912,138.14716 131.81442,121.00982"
+       id="path10734-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.220487px;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:0.220487, 0.661461;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13010)"
+       d="m 47.994804,139.01552 20.946263,17.63896 63.941213,-35.27791"
+       id="path11462-5"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.58786"
+       y="147.17996"
+       id="text15324"><tspan
+         sodipodi:role="line"
+         id="tspan15322"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;fill:#d40000;stroke-width:0.264583"
+         x="35.58786"
+         y="147.17996">Foyer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.964073"
+       y="142.72044"
+       id="text15324-3"
+       transform="rotate(-11.99477)"><tspan
+         sodipodi:role="line"
+         id="tspan15322-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke-width:0.264583"
+         x="37.964073"
+         y="142.72044">Ondes P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-4.4939351"
+       y="168.52422"
+       id="text15324-3-6"
+       transform="rotate(-26.567802)"><tspan
+         sodipodi:role="line"
+         id="tspan15322-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:arial;-inkscape-font-specification:arial;fill:#000000;stroke-width:0.264583"
+         x="-4.4939351"
+         y="168.52422">Ondes P réfléchies</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.13837"
+       y="150.20221"
+       id="text16906"><tspan
+         sodipodi:role="line"
+         id="tspan16904"
+         style="font-size:5.29167px;fill:#ff6600;fill-opacity:1;stroke-width:0.264583"
+         x="100.13837"
+         y="150.20221">Mise en évidence </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ff6600;fill-opacity:1;stroke-width:0.264583"
+         x="100.13837"
+         y="156.8168"
+         id="tspan17658">d'une discontinuité, le Moho</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.764206"
+       y="122.09911"
+       id="text16906-9"><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#008000;fill-opacity:1;stroke-width:0.264583"
+         x="26.764206"
+         y="122.09911"
+         id="tspan17658-2">Sol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="142.11018"
+       y="123.42431"
+       id="text18460"><tspan
+         sodipodi:role="line"
+         id="tspan18458"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="142.11018"
+         y="123.42431">Station </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="142.11018"
+         y="130.03889"
+         id="tspan18462">sismologique</tspan></text>
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.530622;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.8;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path18516"
+       cx="144.53783"
+       cy="116.59717"
+       rx="1.6653379"
+       ry="1.6438086" />
+  </g>
+  <metadata
+     id="metadata18913">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:date>été 2022 - V1 du TST</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paulhenry Saux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Paulhenry.eu</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>FR</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

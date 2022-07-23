@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="197.15852mm"
+   height="125.82451mm"
+   viewBox="0 0 197.15852 125.82451"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="chap6-fig1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.52114899"
+     inkscape:cx="415.42822"
+     inkscape:cy="248.4894"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid311"
+       originx="-10.094717"
+       originy="-150.91588" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect255"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect253"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.00645161"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect249"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect247"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.00645161"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.094717,-150.91587)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.175645,160.35053 c 6.037801,-4.66911 13.716732,-7.17083 21.346201,-6.95437 5.568998,0.158 11.011982,1.70837 16.224492,3.67521 5.058757,1.90882 10.022569,4.23595 15.354783,5.13156 8.538143,1.43408 17.187922,-0.91003 25.71071,-2.43271 6.141511,-1.09724 12.350509,-1.77148 18.512819,-2.74514 5.75718,-0.90965 11.47821,-2.08127 17.27582,-2.68154 4.64095,-0.48051 9.31512,-0.59282 13.97955,-0.4814 6.46391,0.1544 12.93129,0.73741 19.38594,0.35878 3.77459,-0.22142 7.53238,-0.77132 11.31346,-0.77499 5.18599,-0.005 10.31144,1.01622 15.47042,1.54477 2.42985,0.24895 4.87089,0.38873 7.31328,0.4188"
+       id="path251"
+       inkscape:path-effect="#path-effect253;#path-effect255"
+       inkscape:original-d="m 10.175645,160.35053 c 5.575349,-2.61584 10.730422,-6.96435 16.600971,-7.67803 2.266815,-0.27558 5.279033,1.03694 7.486044,1.39523 2.213777,0.35938 4.627518,-0.17266 6.840104,0.25448 4.757131,0.91835 8.681418,4.26747 12.832942,6.4358 3.982432,2.08001 17.388528,1.47157 22.630902,1.26354 5.483228,-0.21758 24.154282,-5.36667 25.869822,-5.10571 6.52404,0.99242 13.05836,-1.84393 19.17149,-3.20846 3.85379,-0.86022 0.87587,0.34541 2.99255,0.63616 2.7764,0.38137 7.72885,0.34782 10.73427,0.19874 0.89098,-0.0442 1.67617,-0.83898 2.56504,-0.7634 1.81685,0.15449 3.59731,0.90904 5.66447,0.82701 3.21084,-0.12741 6.35164,-0.65535 9.51204,-0.89063 2.22177,-0.1654 4.20393,0.81645 6.6458,0.43728 3.91133,-0.60735 0.48435,-0.85615 3.2063,-2.03576 3.68548,-1.59717 7.77258,2.9822 10.85976,3.40814 1.06362,0.14675 2.65334,-0.53203 3.63283,-0.56074 4.68616,-0.13733 9.97675,0.0596 14.64214,0.44532" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.8;stroke-dasharray:2.26, 4.51999;stroke-dashoffset:0"
+       id="path368"
+       cx="95.25"
+       cy="222.25"
+       rx="55.562496"
+       ry="54.239582" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.8;stroke-dasharray:2.26, 4.51999;stroke-dashoffset:0"
+       id="path368-3"
+       cx="95.25"
+       cy="222.25"
+       r="42.333332" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.8;stroke-dasharray:2.26, 4.51999;stroke-dashoffset:0"
+       id="path368-6"
+       cx="95.25"
+       cy="222.25"
+       r="31.75" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.8;stroke-dasharray:2.26, 4.51999;stroke-dashoffset:0"
+       id="path368-3-7"
+       cx="95.25"
+       cy="222.25"
+       r="21.166666" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.065;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 95.249999,222.25 39.6875,154.78125"
+       id="path2603"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;stroke:#aa0000;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10.8;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path2706"
+       inkscape:flatsided="false"
+       sodipodi:sides="9"
+       sodipodi:cx="89.958328"
+       sodipodi:cy="209.02083"
+       sodipodi:r1="11.22532"
+       sodipodi:r2="6.2300525"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.134464"
+       inkscape:rounded="0.11"
+       inkscape:randomized="0"
+       d="m 97.895828,216.95833 c -0.44944,0.44944 -4.728513,-2.55977 -5.304566,-2.29116 -0.576053,0.26862 -1.021397,5.48087 -1.654583,5.53626 -0.633185,0.0554 -1.976861,-5.00033 -2.590807,-5.16483 -0.613946,-0.16451 -4.305466,3.54204 -4.826123,3.17747 -0.520656,-0.36457 1.699787,-5.10117 1.335219,-5.62183 -0.364567,-0.52066 -5.57496,-0.0541 -5.739466,-0.66809 -0.164507,-0.61394 4.581084,-2.81512 4.636481,-3.44831 0.0554,-0.63318 -4.235867,-3.62498 -3.96725,-4.20104 0.268618,-0.57605 5.318843,0.78816 5.768283,0.33872 0.44944,-0.44944 -0.914766,-5.49967 -0.338713,-5.76829 0.576053,-0.26861 3.567855,4.02265 4.20104,3.96725 0.633186,-0.0554 2.834365,-4.80098 3.448312,-4.63648 0.613946,0.16451 0.147428,5.3749 0.668084,5.73947 0.520657,0.36457 5.257265,-1.85588 5.621833,-1.33522 0.364567,0.52066 -3.341982,4.21218 -3.177475,4.82612 0.164506,0.61395 5.220233,1.95762 5.164833,2.59081 -0.0554,0.63318 -5.267639,1.07853 -5.536257,1.65458 -0.268618,0.57606 2.740595,4.85513 2.291155,5.30457 z"
+       inkscape:transform-center-x="-0.44002002"
+       inkscape:transform-center-y="-0.43768715"
+       transform="rotate(8.9456566,7.5126767,248.92648)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.024578"
+       y="158.6208"
+       id="text6444"><tspan
+         sodipodi:role="line"
+         id="tspan6442"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="63.024578"
+         y="158.6208">Sol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="126.4884"
+       y="171.75177"
+       id="text6444-5"><tspan
+         sodipodi:role="line"
+         id="tspan6442-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="126.4884"
+         y="171.75177">Ondes sismiques</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="110.25684"
+       y="224.53407"
+       id="text6444-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan6442-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;fill:#d40000;stroke-width:0.264583"
+         x="110.25684"
+         y="224.53407">Foyer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="25.590172"
+       y="176.90907"
+       id="text6444-5-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan6442-3-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="25.590172"
+         y="176.90907">Faille</tspan></text>
+  </g>
+  <metadata
+     id="metadata7702">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:date>été 2022 - V1 du TST</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Paulhenry Saux</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Paulhenry.eu</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>FR</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
