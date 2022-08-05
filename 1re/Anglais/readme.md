@@ -1,0 +1,1 @@
+Certaine sfiches sont accompagnées de fichiers ods contenant des listes de mots concernant le thème abordé de la fiche. Ils font partie de la fiche mais sont crés dans un tableur pour faciliter une hypothétique importation dans des logiciels de flascards.
