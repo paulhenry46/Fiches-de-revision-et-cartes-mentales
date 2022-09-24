@@ -1,8 +1,10 @@
 # Fiches et cartes mentales
 ## Pourquoi ce dépot ?
 
-Durant mes révisions, j'ai découvert de nombreux sites proposant des ressources pour réviser. Malheureusement, à chaque fois, on ne pouvait pas télécharger les fiches ou les modifier librement. De plus, très rare sont les sites proposant des cartes mentales pour réviser efficacement. C'est pour combler ces manques que ce dépôt et le site associé ont été créés. 
+Durant mes révisions, j'ai découvert de nombreux sites proposant des ressources pour réviser. Malheureusement, à chaque fois, il était impossible de télécharger les fiches ou les modifier librement. De plus, très rare sont les sites proposant de vraies cartes mentales pour réviser efficacement. C'est pour combler ces manques que ce dépôt et le site associé ont été créés. 
 
+## Branche
+Cette branche est destinée à accueillir les sources des outils de révision spécifiques aux classes de 1ere du Lycée Léo Férré
 ## Utilisation
 
 Les cartes mentales ne peuvent pour le moment être ouvertes qu'avec [Xmind](https://www.xmind.net).
