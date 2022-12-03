@@ -11,6 +11,8 @@ Les fiches de révisions et de méthodologies sont écrites avec [LibreOffice](h
 
 Toutes les équations sont écrites en LaTex. Celles des fiches de mathématiques sont générées avec l'extension [TexMaths](https://extensions.libreoffice.org/en/extensions/show/texmaths-1)
 
+**Les ressources spécifiques à la classe de 1ere du lycée Leo ferré se trouvent dans [cette branche](https://github.com/paulhenry46/Fiches-de-revision-et-cartes-mentales/tree/leo-ferre/)**
+
 ## Technologies et programmes utilisés
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white) pour les fiches de révision et de méthodologie
 
