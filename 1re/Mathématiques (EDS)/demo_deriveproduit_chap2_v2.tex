@@ -1,0 +1,78 @@
+\documentclass[a4paper,twoside,10pt,twocolumn,french]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}
+\usepackage{ulem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{color}
+\usepackage{babel} 
+\usepackage{helvet} 
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage[fleqn,tbtags]{mathtools}
+\title{Démonstration de  $(uv)' = u'v+uv'$}
+\date{}
+ \renewcommand*\familydefault{\sfdefault} 
+\geometry{a4paper}
+% -------------------------------------------------------------------------------------------------
+% ----------- Création des commandes de couleur pour les titres ----------
+% -------------------------------------------------------------------------------------------------
+\newcommand{\sectionred}[1]{{\color{red}{\uuline{\color{black}#1}}}}
+\newcommand{\sectiongreen}[1]{{\color{ForestGreen}{\uuline{\color{black}#1}}}}
+\newcommand{\sectionblue}[1]{{\color{NavyBlue}{\uuline{\color{black}#1}}}}
+\begin{document}
+\maketitle
+% -------------------------------------------------------------------------------------------------
+% ---------------- Modification des titres de niveau 1,2 et 3 --------------------
+% -------------------------------------------------------------------------------------------------
+\titleformat
+{\section} % command
+%[display] % shape
+{\Large} % format
+{{\color{red}\uuline{\color{black}\thesection -}}} % label
+{0ex} % sep
+{\sectionred} % before-code
+[] % after-code
+
+\titleformat
+{\subsection}%[display] % shape
+{\Large} % format
+{{\color{ForestGreen}\uuline{\color{black}\thesubsection -}}} % label
+{0ex} % sep
+{\sectiongreen} % before-code
+[] % after-code
+
+\titleformat
+{\subsubsection} % command
+%[display] % shape
+{\large} % format
+{{\color{NavyBlue}\uuline{\color{black}\thesubsubsection -}}} % label
+{0ex} % sep
+{\sectionblue} % before-code
+[] % after-code
+
+% -------------------------------------------------------------------------------------------------
+% ---------------- Début du corps du document ------------------------------------
+% -------------------------------------------------------------------------------------------------
+
+\section{Remarques\:préliminaires}
+$u$ et $v$ sont dérivable sur $I$ et $ a \in I$
+\\
+\section{Taux\:de\:variation}
+On pose d'abord le taux de variation :   \begin{align} T_a(h) & = \frac{f(a+h)-f(a)}{h} \\
+& = \frac{u(a+h)\times v(a+h) - u(a)\times v(a)}{h} \end{align} 
+\\
+\section{Ajout\:et\:soustraction}
+Pour la suite de la démonstration, il faut ajouter et soustraire en même temps $u(a+h) \times v(a) $. On a donc : $$T_a(h) = \frac{\colorbox{Yellow}{$u(a+h$)}\times v(a+h) {\color{red}- {\colorbox{Yellow}{$u(a+h$)} \times v(a)}} {\color{ForestGreen}+ u(a+h) \times \colorbox{SpringGreen}{$v(a)$} }- u(a)\times \colorbox{SpringGreen}{$v(a)$}}{h} $$
+\section{Factorisation}
+On peut désormais procéder à la factorisation comme ceci : $$T_a(h) = \frac{\colorbox{Yellow}{$u(a+h$)}\times (v(a+h){\color{red}-v(a)})+\colorbox{SpringGreen}{$v(a)$} \times ({\color{ForestGreen}u(a+h)}-u(a))}{h} $$
+\section{Séparation\:de\:l'expression\:en\:2} 
+On sépare l'expression : $$T_a(h) = \frac{u(a+h)\times (v(a+h){\color{red}-v(a)})}{h}+ \frac{v(a) \times ({\color{ForestGreen}u(a+h)}-u(a))}{h} $$
+\section{Simplification}
+On simplifie en enlevant la division par h pour les facteurs $u(a+h)$ et $v(a)$. On a donc : $$T_a(h) = {\color{OrangeRed}u(a+h)}\times {\color{Orange}\frac{(v(a+h)-v(a))}{h}}+ {\color{Orchid}v(a)} \times {\color{NavyBlue}\frac{(u(a+h)-u(a))}{h}} $$
+\section{On\:fait\:tendre\:h\:vers\:0}
+On fait tendre h vers 0 pour trouver $T_a(h)$. La limite quand $h \rightarrow 0$ est donc : $$T_a(h) = {\color{OrangeRed}u(a)} \times {\color{Orange}v'(a)} + {\color{Orchid}v(a)} \times {\color{NavyBlue}u'(a)}$$
+\section{Conclusion}
+%Donc la limite quand $h \rightarrow 0$ est : $$T_a(h) = u(a) \times v'(a) + v(a) \times u'(a)$$
+Donc $f$ est dérivable en $a$ et $f'(a) = u'(a)v(a) + u(a)v'(a)$ Ceci est valable pour tout $a$ de $I$, alors $f$ est dérivable en sur $I$ et $f'=u'v+uv'$
+\end{document}
