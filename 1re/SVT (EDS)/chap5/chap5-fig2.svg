@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.092735mm"
+   height="89.966888mm"
+   viewBox="0 0 26.092735 89.966888"
+   version="1.1"
+   id="svg5392"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="chap5-fig2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5394"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7042597"
+     inkscape:cx="149.80269"
+     inkscape:cy="178.20131"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5389" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-62.49367,-58.089905)">
+    <path
+       id="rect462-6-2"
+       style="fill:#00d25f;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 74.297606,58.098905 7.92657,-0.009 0.006,0.005 5.29164,5.295331 -5.29163,5.28575 -0.006,0.005 h -7.92658 l -0.005,-0.005 V 58.103575 Z"
+       sodipodi:nodetypes="cccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.155167"
+       y="67.358063"
+       id="text238-9"><tspan
+         sodipodi:role="line"
+         id="tspan236-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
+         x="75.155167"
+         y="67.358063">A</tspan></text>
+    <path
+       id="rect462-3-7-3-9"
+       style="fill:#d10051;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round"
+       d="m 74.297606,84.556066 h 6.86825 c 0.003,0 0.002,0.005 0.005,0.005 2.5636,-0.002 5.29163,2.64084 5.29163,5.28667 0,2.72533 -2.5636,5.2888 -5.29163,5.28575 -0.003,0 -0.002,0.005 -0.005,0.005 h -6.86825 c -0.003,0 -0.005,-0.002 -0.005,-0.005 v -10.57242 c 0,-0.003 0.002,-0.005 0.005,-0.005 z"
+       sodipodi:nodetypes="ssssssssss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.617149"
+       y="93.583733"
+       id="text246-3"><tspan
+         sodipodi:role="line"
+         id="tspan244-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="75.617149"
+         y="93.583733">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.661682"
+       y="67.392258"
+       id="text2240-2"><tspan
+         sodipodi:role="line"
+         id="tspan2238-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="61.661682"
+         y="67.392258">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.142273"
+       y="80.621452"
+       id="text2244-7"><tspan
+         sodipodi:role="line"
+         id="tspan2242-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="62.142273"
+         y="80.621452">P</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.064276,63.256116 h 2.64583"
+       id="path2300-92" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.095526,68.547786 v 2.64583"
+       id="path2302-28" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.095516,81.776946 v 2.64584"
+       id="path2304-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.661682"
+       y="93.7183"
+       id="text2240-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan2238-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="61.661682"
+         y="93.7183">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.142273"
+       y="106.94749"
+       id="text2244-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan2242-7-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="62.142273"
+         y="106.94749">P</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.064266,89.582156 h 2.64583"
+       id="path2300-9-2" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.095516,94.873826 v 2.64583"
+       id="path2302-2-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.095506,108.10299 v 2.64584"
+       id="path2304-0-3" />
+    <path
+       id="rect462-3-2-7"
+       style="fill:#bda600;fill-opacity:1;stroke:none;stroke-width:0.262499;stroke-linecap:round;stroke-linejoin:round"
+       d="m 87.523446,111.01242 c 3.9e-4,0 6.4e-4,4.5e-4 9.8e-4,5.1e-4 l -5.18587,5.29254 5.19043,5.28787 v 5.2e-4 c 0,0.003 -0.003,0.005 -0.006,0.005 l -13.22437,0.006 c -0.006,0 -0.006,-0.005 -0.006,-0.005 v -10.57627 c 0,-0.003 0.003,-0.005 0.006,-0.005 z"
+       sodipodi:nodetypes="scccssccsss" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-81.873726"
+       y="120.44215"
+       id="text242-7-8"
+       transform="scale(-1,1)"><tspan
+         sodipodi:role="line"
+         id="tspan240-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="-81.873726"
+         y="120.44215">U</tspan></text>
+    <path
+       id="rect462-3-7-6-0-6"
+       style="fill:#9c03a2;fill-opacity:1;stroke:none;stroke-width:0.265065;stroke-linecap:round;stroke-linejoin:round"
+       d="m 88.580406,137.47215 c 0.003,0 0.005,0.002 0.006,0.005 -2.56462,-0.002 -5.29377,2.64096 -5.29377,5.28708 0,2.72562 2.56466,5.28961 5.29377,5.28656 0,0.003 -0.003,0.006 -0.006,0.006 h -14.28179 c -0.003,0 -0.006,-0.003 -0.006,-0.006 v -10.57313 c 0,-0.003 0.003,-0.006 0.006,-0.006 z"
+       sodipodi:nodetypes="ccscsssscc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.895462"
+       y="146.73302"
+       id="text250-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan248-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="74.895462"
+         y="146.73302">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.661682"
+       y="120.30894"
+       id="text2240-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan2238-3-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="61.661682"
+         y="120.30894">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="62.142273"
+       y="133.53813"
+       id="text2244-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan2242-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="62.142273"
+         y="133.53813">P</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.064286,116.17278 h 2.64583"
+       id="path2300-92-4" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.095536,121.46445 v 2.64583"
+       id="path2302-28-7" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 66.095526,134.69361 v 2.64584"
+       id="path2304-9-4" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.661682"
+       y="146.63498"
+       id="text2240-6-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan2238-1-3-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-width:0.264583"
+         x="61.661682"
+         y="146.63498">R</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 70.064276,142.49882 h 2.64583"
+       id="path2300-9-2-8" />
+  </g>
+</svg>

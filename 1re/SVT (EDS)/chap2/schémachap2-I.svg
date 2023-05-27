@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188.93365mm"
+   height="70.908325mm"
+   viewBox="0 0 188.93365 70.908325"
+   version="1.1"
+   id="svg4646"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="schémachap2-I.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4648"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.042298"
+     inkscape:cx="391.92247"
+     inkscape:cy="68.598425"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5131"
+       originx="0.13229149"
+       originy="-53.445845" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4643">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.1322915,-53.445845)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 179.91667,86.783326 V 116.41667 H 0 V 64.822917 h 13.229167"
+       id="path5187"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0,96.572917 H 13.229167"
+       id="path5189"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="M 158.75,82.02083 137.58333,82.020782 116.41667,68.79165"
+       id="path5191"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 137.58333,82.020792 116.41667,95.25"
+       id="path5191-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="160.04648"
+       y="83.423126"
+       id="text5281"><tspan
+         sodipodi:role="line"
+         id="tspan5279"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="160.04648"
+         y="83.423126">cellule oeuf</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.98053"
+       y="66.992516"
+       id="text5281-5"><tspan
+         sodipodi:role="line"
+         id="tspan5279-3"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="97.98053"
+         y="66.992516">spermatozoïde</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.1078"
+       y="99.430405"
+       id="text5281-56"><tspan
+         sodipodi:role="line"
+         id="tspan5279-2"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="100.1078"
+         y="99.430405">ovule</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 76.729167,66.145832 H 95.249999"
+       id="path5389"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#TriangleStart)"
+       d="M 97.895832,97.895833 H 76.729167"
+       id="path5391"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="25.56411"
+       y="57.467514"
+       id="text5281-9"><tspan
+         sodipodi:role="line"
+         id="tspan5279-1"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="25.56411"
+         y="57.467514">cellules somatiques</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.463116"
+       y="88.688339"
+       id="text5281-9-2"><tspan
+         sodipodi:role="line"
+         id="tspan5279-1-7"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="22.463116"
+         y="88.688339">cellules somatiques</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.675356"
+       y="66.992516"
+       id="text5281-9-0"><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="26.675356"
+         y="66.992516"
+         id="tspan5488">cellules germinales</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="26.675356"
+         y="73.607101"
+         id="tspan5492">        (testicules)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.812498"
+       y="99.271683"
+       id="text5281-9-0-3"><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="23.812498"
+         y="99.271683"
+         id="tspan5488-6">cellules germinales</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="23.812498"
+         y="105.88627"
+         id="tspan5492-0">        (ovaires)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.1377081"
+       y="63.447083"
+       id="text5281-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan5279-3-2"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="1.1377081"
+         y="63.447083">homme : </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.6934581"
+       y="95.197083"
+       id="text5281-5-61"><tspan
+         sodipodi:role="line"
+         id="tspan5279-3-8"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="2.6934581"
+         y="95.197083">femme :</tspan></text>
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 84.666666,58.208333 V 74.083332"
+       id="path5600" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 89.958332,58.208333 V 74.083332"
+       id="path5602" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 84.666666,89.958332 V 105.83333"
+       id="path5604" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 89.958332,89.958332 V 105.83333"
+       id="path5606" />
+    <path
+       style="fill:none;stroke:#d40000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 148.16666,74.083332 v 15.875"
+       id="path5608" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#TriangleStart)"
+       d="M 179.91666,116.41667 H 145.0688 104.61176 52.275118 0"
+       id="path6278"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="59.727097"
+       y="123.08417"
+       id="text5281-56-7"><tspan
+         sodipodi:role="line"
+         id="tspan5279-2-9"
+         style="font-size:5.29167px;stroke-width:0.264583"
+         x="59.727097"
+         y="123.08417">cycle cellulaire</tspan></text>
+  </g>
+</svg>

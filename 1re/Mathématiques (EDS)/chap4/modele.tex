@@ -1,0 +1,112 @@
+\documentclass[a4paper,twoside,10pt,french, twocolumn]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}
+\usepackage{ulem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{color}
+\usepackage{babel} 
+\usepackage{helvet} 
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{pst-all}
+\usepackage{auto-pst-pdf} %Pour compiler les pstricks avec PDFLaTeX
+\title{Chapitre 4 : Produits scalaires}
+\date{}
+ \renewcommand*\familydefault{\sfdefault} 
+\geometry{a4paper}
+% -------------------------------------------------------------------------------------------------
+% ----------- Création des commandes de couleur pour les titres ----------
+% -------------------------------------------------------------------------------------------------
+\newcommand{\sectionred}[1]{{\color{red}{\uuline{\color{black}#1}}}}
+\newcommand{\sectiongreen}[1]{{\color{ForestGreen}{\uuline{\color{black}#1}}}}
+\newcommand{\sectionblue}[1]{{\color{NavyBlue}{\uuline{\color{black}#1}}}}
+\begin{document}
+\maketitle
+% -------------------------------------------------------------------------------------------------
+% ---------------- Modification des titres de niveau 1,2 et 3 --------------------
+% -------------------------------------------------------------------------------------------------
+\titleformat
+{\section} % command
+%[display] % shape
+{\Large} % format
+{{\color{red}\uuline{\color{black}\thesection -}}} % label
+{0ex} % sep
+{\sectionred} % before-code
+[] % after-code
+
+\titleformat
+{\subsection}%[display] % shape
+{\Large} % format
+{{\color{ForestGreen}\uuline{\color{black}\thesubsection -}}} % label
+{0ex} % sep
+{\sectiongreen} % before-code
+[] % after-code
+
+\titleformat
+{\subsubsection} % command
+%[display] % shape
+{\large} % format
+{{\color{NavyBlue}\uuline{\color{black}\thesubsubsection -}}} % label
+{0ex} % sep
+{\sectionblue} % before-code
+[] % after-code
+
+% -------------------------------------------------------------------------------------------------
+% ---------------- Début du corps du document ------------------------------------
+% -------------------------------------------------------------------------------------------------
+
+\section{Définition\:avec\:le\:cosinus}
+$\overrightarrow{AB}.\overrightarrow{AC} = AB \times AC \times \cos (\widehat{BAC})$
+\section{Avec\:le\:projeté\:orthogonal}
+Pour calculer $\overrightarrow{AB}.\overrightarrow{AC}$, on projette $C$ sur $(AB)$. Ainsi, $\overrightarrow{AB}.\overrightarrow{AC} = \overrightarrow{AB}.\overrightarrow{AH}$. Les 2 vecteurs sont colinéaires, on peut calculer le produit scalaire avec le produit de leur norme.
+
+\psset{unit=1.2cm,arrowsize=7pt}
+\psset{unit=1cm,arrowsize=7pt}
+\begin{pspicture}(0,0)(4,2.5)
+  \psline{->}(0,0)(2,2)
+  \psline{->}(0,0)(4,0)
+  \psline[linestyle=dashed](2,0.)(2,2.5)
+  \rput(-0.3,0){$A$}\rput(4.3,0){$B$}
+  \rput(1.6,2){$C$}\rput(2,-0.3){$H$}
+  \psline(1.8,0)(1.8,0.2)(2,0.2)
+\end{pspicture}
+\section{Dans\:un\:repère\:orthonormé}
+Dans un repère orthonormé, $\overrightarrow{u}.\overrightarrow{v} = x \times u' + y \times y'$ avec $x$ et $x'$ les coordonnées x respectives des 2 vecteurs et $y$ et $y'$ leurs coordonnées y respectives.
+\section{Propriétés}
+\subsection{Géométriques}
+\begin{itemize}
+ \item $\overrightarrow{u}.\overrightarrow{v} = \overrightarrow{v}.\overrightarrow{u}$
+ \item $\overrightarrow{u}.(\overrightarrow{v}+\overrightarrow{w}) = \overrightarrow{u}.\overrightarrow{v} + \overrightarrow{u}.\overrightarrow{w}$
+ \item $\overrightarrow{u}.\overrightarrow{v} = 0 \Leftrightarrow \overrightarrow{u} \perp \overrightarrow{v}$
+\end{itemize}
+\subsection{Algébriques}
+\begin{itemize}
+ \item $(\overrightarrow{u}+\overrightarrow{v})^2 = \overrightarrow{u}^2 + 2\overrightarrow{v}.\overrightarrow{u} + \overrightarrow{v}^2$
+ \item $(\overrightarrow{u}-\overrightarrow{v})^2 = \overrightarrow{u}^2 - 2\overrightarrow{v}.\overrightarrow{u} + \overrightarrow{v}^2$
+ \item $\overrightarrow{u}^2-\overrightarrow{v}^2 = (\overrightarrow{u}+\overrightarrow{v}).(\overrightarrow{u}-\overrightarrow{v})$
+\end{itemize}
+\section{Avec\:les\:normes}
+\begin{itemize}
+ \item $\overrightarrow{u}.\overrightarrow{v} = \frac{1}{2} ( \Arrowvert \overrightarrow{u}+\overrightarrow{v}\Arrowvert^2 -\Arrowvert\overrightarrow{u}\Arrowvert^2 -\Arrowvert\overrightarrow{v}\Arrowvert^2)$
+ \item $\overrightarrow{u}.\overrightarrow{v} = \frac{1}{2} ( \Arrowvert\overrightarrow{u}\Arrowvert^2+\Arrowvert\overrightarrow{v}\Arrowvert^2 -\Arrowvert\overrightarrow{u} -\overrightarrow{v}\Arrowvert^2)$
+\end{itemize}
+\section{Relation\:de\:Chasles}
+\subsection{Propriété}
+$\overrightarrow{AC}=\overrightarrow{AB}+\overrightarrow{BC}$
+\subsection{Exemple}
+$\overrightarrow{DE}.\overrightarrow{AC} = (\overrightarrow{DA}+\overrightarrow{AE}).(\overrightarrow{AB}+\overrightarrow{BC})$
+\psset{unit=1cm,arrowsize=7pt}
+\begin{pspicture}(0,3.5)(4,4)
+  \pspolygon(0,0)(5,0)(5,3)(0,3)
+  \psplot{-0.3}{3}{-6 5 div x mul 3 add}
+  \psplot{-0.3}{5.3}{3 5 div x mul}
+  %
+  \rput(0,-0.2){$A$}
+  \rput(5.2,-0.2){$B$}
+  \rput(5.,3.2){$C$}
+  \rput(0.1,3.2){$D$}
+  \rput(2.4,-0.2){$E$}
+  %
+\end{pspicture}
+\end{document}

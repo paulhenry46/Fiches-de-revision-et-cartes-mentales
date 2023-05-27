@@ -1,0 +1,139 @@
+\documentclass[a4paper,twoside,10pt,french]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}
+\usepackage{ulem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{color}
+\usepackage{babel}
+\usepackage{helvet}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\title{39 page 287 - C7}
+\date{}
+ \renewcommand*\familydefault{\sfdefault}
+\geometry{a4paper}
+% -------------------------------------------------------------------------------------------------
+% ----------- Création des commandes de couleur pour les titres ----------
+% -------------------------------------------------------------------------------------------------
+\newcommand{\sectionred}[1]{{\color{red}{\uuline{\color{black}#1}}}}
+\newcommand{\sectiongreen}[1]{{\color{ForestGreen}{\uuline{\color{black}#1}}}}
+\newcommand{\sectionblue}[1]{{\color{NavyBlue}{\uuline{\color{black}#1}}}}
+\begin{document}
+\maketitle
+% -------------------------------------------------------------------------------------------------
+% ---------------- Modification des titres de niveau 1,2 et 3 --------------------
+% -------------------------------------------------------------------------------------------------
+\titleformat
+{\section} % command
+%[display] % shape
+{\Large} % format
+{{\color{red}\uuline{\color{black}}}} % label
+{0ex} % sep
+{\sectionred} % before-code
+[] % after-code
+
+\titleformat
+{\subsection}%[display] % shape
+{\Large} % format
+{{\color{ForestGreen}\uuline{\color{black}}}} % label
+{0ex} % sep
+{\sectiongreen} % before-code
+[] % after-code
+
+\titleformat
+{\subsubsection} % command
+%[display] % shape
+{\large} % format
+{{\color{NavyBlue}\uuline{\color{black}}}} % label
+{0ex} % sep
+{\sectionblue} % before-code
+[] % after-code
+
+% -------------------------------------------------------------------------------------------------
+% ---------------- Début du corps du document ------------------------------------
+% -------------------------------------------------------------------------------------------------
+
+On se place dans un référentiel supposé galiléen, où le principe d'inertie est vérifié, avec un repère d'espace fixe et un repère de temps newtonien. Les objets sont supposés ponctuels.
+
+On néglige les forces de frottement fluide de l'air par rapport aux forces de frottements solides des rails.
+
+\section{Modélisation\:de\:situation}
+Le but de l'exercice est de trouver la vitesse minimale au point A pour que le wagon traverse le looping avec une certaine vitesse.
+
+Si le wagon parcourt le looping, la vitesse minimale
+au cours du parcours est obtenue au sommet de
+la boucle, situé à la verticale de B (Après ce point, le wagon ne lutte plus contre le poids et va donc plus vite). On nommera ce sommet de la boucle le point C. La vitesse en ce point doit être de 20 km/h.
+
+L'exercice fait intervenir des valeurs en 2 points, on va se servir de la relation : $\Delta E_m = \Delta E_{pp} + \Delta E_C = W_{AC} (\overrightarrow{f})$
+\section{Données}
+Nous avons :
+\begin{itemize}
+ \item la vitesse au point C : 20 km/h
+ \item la hauteur du point C : 20 m
+ \item la hauteur du point A : 40 m
+ \item la masse du wagon : 500 kg
+ \item la valeur des forces de frottement : 600N
+\end{itemize}
+
+Il nous manque :
+\begin{itemize}
+ \item la vitesse au point A : C'est normal, c'est la valeur recherchée.
+ \item la distance AC : Nous la calculerons dans la partie suivante.
+\end{itemize}
+\section{Calcul\:de\:AC}
+La distance AC est la somme de la distance AB et la distance BC.
+\subsection{Calcul\:de\:AB}
+L'exercice nous invite à faire l'hypothèse que le travail de la force de frottement sur un chemin curviligne vaut le travail sur un chemin rectiligne. AB vaut donc 120m
+\subsection{Calcul\:de\:BC}
+La distance BC représente la circonférence d'un demi-cercle. Nous pouvons la trouver en faisant $$\frac{2\pi \times \frac{h}{2}}{2}$$
+
+Explications :
+\begin{itemize}
+ \item $\frac{h}{2}$ vaut le rayon du cercle
+ \item $2\pi \times \frac{h}{2}$ vaut la circonférence du cercle
+ \item On divise le tout par 2 car on cherche la distance du demi-cercle BC seulement.
+\end{itemize}
+\subsection{Résultat\:final}
+BC vaut $120 + \frac{2\pi \times 10}{2} \simeq 151$m.
+\section{Algèbre}
+On sait que : $\Delta E_M = W_{AC} (\overrightarrow{f})$.
+
+Or, $\Delta E_M = {\color{orange}\Delta E_C} + {\color{ForestGreen}\Delta E_{pp}}$.
+
+Donc : ${\color{orange}\Delta E_C} + {\color{ForestGreen}\Delta E_{pp}} = W_{AC} (\overrightarrow{f})$.
+
+Or, ${\color{ForestGreen}\Delta E_{pp}} = {\color{green}E_{pp, B} - E_{pp, A}}$ et ${\color{orange}\Delta E_C} = {\color{red}E_{C, B} - E_{C, A}}$.
+
+Or, ${\color{green}E_{pp} = mg \times Z}$ et ${\color{red}E_{C} = \frac{1}{2}mv^2}$.
+
+On obtient l'équation suivante : $({\color{red}\frac{1}{2}mv_B^2 - \frac{1}{2}mv_A^2}) + ({\color{green}mg \times Z_C - mg \times Z_A}) = W_{AC} (\overrightarrow{f})$.
+\\
+
+Or, $W_{AC} (\overrightarrow{f}) = f \times AC \times \cos(180) = f \times AC \times (-1) = -f \times AC$. On multiplie par $\cos(180)$ car en tous points du parcours, les forces de frottement des rails sont à l'opposée du mouvement.
+
+On obtient l'équation suivante : $({\color{red}\frac{1}{2}mv_B^2 - \frac{1}{2}mv_A^2}) + ({\color{green}mg \times Z_C - mg \times Z_A}) = -f \times AC$.
+
+On fait passer $-f \times AC$ de l'autre côté : $$({\color{red}\frac{1}{2}mv_B^2 - \frac{1}{2}mv_A^2}) + ({\color{green}mg \times Z_C - mg \times Z_A}) + f \times AC = 0$$
+\\
+
+Nous cherchons la vitesse au point A, on fait passer ${\color{red}- \frac{1}{2}mv_A^2}$ de l'autre côté : $${\color{red}\frac{1}{2}mv_B^2} + {\color{green}mg \times Z_C - mg \times Z_A} + f \times AC = {\color{red} \frac{1}{2}mv_A^2}$$
+
+On divise par la masse : $$\frac{{\color{red}\frac{1}{2}mv_B^2} + {\color{green}mg \times Z_C - mg \times Z_A} + f \times AC}{m} = {\color{red} \frac{1}{2}v_A^2}$$
+
+$${\color{red}\frac{1}{2}v_B^2} + {\color{green}g \times Z_C - g \times Z_A} + \frac{f \times AC}{m} = {\color{red} \frac{1}{2}v_A^2}$$
+
+On multiplie par 2 : $${\color{red}v_B^2} + {\color{green}2g \times Z_C - 2g \times Z_A} + \frac{2f \times AC}{m} = {\color{red}v_A^2}$$
+
+On met à la racine carrée : $$\sqrt{{\color{red}v_B^2} + {\color{green}2g \times Z_C - 2g \times Z_A} + \frac{2f \times AC}{m}} = {\color{red}v_A}$$
+
+On obtient (enfin) l'expression de $v_A$ : $${\color{red}v_A} = \sqrt{{\color{red}v_B^2} + {\color{green}2g \times Z_C - 2g \times Z_A} + \frac{2f \times AC}{m}}$$
+
+On peut factoriser les expressions d'énergie potentielle (mais c'est facultatif) : $${\color{red}v_A} = \sqrt{{\color{red}v_B^2} + {\color{green}2g (Z_C - Z_A)} + \frac{2f \times AC}{m}}$$
+\section{Application\:numérique}
+
+On remplace les lettres par les valeurs de l'exercice : $$v_A = \sqrt{{\color{red}\frac{20}{3.6}^2} + {\color{green}2 \times 9.81 \times (20 - 40)} + \frac{2 \times 600 \times 151}{500}} \simeq 1.4 m \cdot s^{-1}$$
+
+Le wagon doit donc avoir cette vitesse au point A pour traverser le looping à au moins 20 km/h.
+\end{document}

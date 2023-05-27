@@ -1,0 +1,89 @@
+\documentclass[a4paper,twoside,10pt,french]{scrartcl}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec}
+\usepackage{ulem}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{color}
+\usepackage{babel}
+\usepackage{helvet}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{graphicx}
+\title{33 page 286 - C7}
+\date{}
+ \renewcommand*\familydefault{\sfdefault}
+\geometry{a4paper}
+% -------------------------------------------------------------------------------------------------
+% ----------- Création des commandes de couleur pour les titres ----------
+% -------------------------------------------------------------------------------------------------
+\newcommand{\sectionred}[1]{{\color{red}{\uuline{\color{black}#1}}}}
+\newcommand{\sectiongreen}[1]{{\color{ForestGreen}{\uuline{\color{black}#1}}}}
+\newcommand{\sectionblue}[1]{{\color{NavyBlue}{\uuline{\color{black}#1}}}}
+\begin{document}
+\maketitle
+% -------------------------------------------------------------------------------------------------
+% ---------------- Modification des titres de niveau 1,2 et 3 --------------------
+% -------------------------------------------------------------------------------------------------
+\titleformat
+{\section} % command
+%[display] % shape
+{\Large} % format
+{{\color{red}\uuline{\color{black}}}} % label
+{0ex} % sep
+{\sectionred} % before-code
+[] % after-code
+
+\titleformat
+{\subsection}%[display] % shape
+{\Large} % format
+{{\color{ForestGreen}\uuline{\color{black}}}} % label
+{0ex} % sep
+{\sectiongreen} % before-code
+[] % after-code
+
+\titleformat
+{\subsubsection} % command
+%[display] % shape
+{\large} % format
+{{\color{NavyBlue}\uuline{\color{black}}}} % label
+{0ex} % sep
+{\sectionblue} % before-code
+[] % after-code
+
+% -------------------------------------------------------------------------------------------------
+% ---------------- Début du corps du document ------------------------------------
+% -------------------------------------------------------------------------------------------------
+
+On se place dans un référentiel supposé galiléen, où le principe d'inertie est vérifié, avec un repère d'espace fixe et un repère de temps newtonien. Les objets sont supposés ponctuels.
+
+A est le point de début du saut et B le point le plus haut du saut. On cherche une altitude, en l'occurence $Z_B$.
+
+Comme on néglige les forces de frotement : $\Delta E_M = 0$.
+
+Or, $\Delta E_M = {\color{orange}\Delta E_C} + {\color{ForestGreen}\Delta E_{pp}}$.
+
+Donc : ${\color{orange}\Delta E_C} + {\color{ForestGreen}\Delta E_{pp}} = 0$.
+
+Or, ${\color{ForestGreen}\Delta E_{pp}} = {\color{green}E_{pp, B} - E_{pp, A}}$ et ${\color{orange}\Delta E_C} = {\color{red}E_{C, B} - E_{C, A}}$.
+
+Or, ${\color{green}E_{pp} = mg \times Z}$ et ${\color{red}E_{C} = \frac{1}{2}mv^2}$.
+
+On obtient l'équation suivante : $({\color{red}\frac{1}{2}mv_B^2 - \frac{1}{2}mv_A^2}) + ({\color{green}mg \times Z_B - mg \times Z_A}) = 0$.
+
+Or, $\frac{1}{2}mv_B^2 = 0$ car au point B, la vitesse et nulle. De plus, $mg \times Z_A = 0$, car l'altitude de référence, que l'on suppose nulle se trouve au point A.
+
+On obtient : ${\color{red}-\frac{1}{2}mv_A^2} + {\color{green}mg \times Z_B} = 0$.
+
+On fait passer $-\frac{1}{2}mv_A^2$ de l'autre côté de l'équation : ${\color{red}m}g \times Z_B = \frac{1}{2}{\color{red}m}v_A^2$.
+
+On remarque les deux expressions de l'équation ont une grandeur en commun, $m$. On peut donc simplifier en l'enlevant pour obtenir : $g \times Z_B = \frac{1}{2}v_A^2$.
+
+Il ne reste plus qu'à isoler la grandeur recherchée, ici $Z_B$ : $Z_B = \frac{1}{2}v_A^2 \times \frac{1}{g} = \frac{1}{2g}v_A^2 = \frac{v_A^2}{2g} $
+
+APP.N : $Z_B = \frac{v_A^2}{2g} = \frac{(30 \:km/h)^2}{2 \times 9.81}$.
+
+Mais notre valeur de vitesse est en km/h. Pour passer de km/h en m/s, on divise simplement par 3.6 ! (Pour passer de m/s en km/h, on multiplie donc par 3.6). On obtient donc :
+
+$ Z_B = \frac{(\frac{30}{3.6})^2}{2 \times 9.81} = 3.5$\: m
+\end{document}
